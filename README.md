@@ -24,7 +24,7 @@ Deploy to AWS<br>
 <code>cd um-facts && chalice deploy</code>
 
 Test it out!<br>
-<code>curl -X GET <your API URL></code>
+<code>curl -X GET [your API URL]</code>
 
 Adjust to taste and redeploy, possibly by <a href="https://github.com/dixonaws/restful_dynamo"> getting data from a DynamoDB table</a> or by
 getting data from an <a href="https://github.com/dixonaws/restful_aurora">RDS database</a>.
