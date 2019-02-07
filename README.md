@@ -4,8 +4,8 @@ Tested with Python 3.6.6 and pip 18.1 on macOS 10.14.2, using AWS us-east-1.
 Make sure to create an account on aws.amazon.com.<br>
 This walkthrough uses the <a  href="https://github.com/aws/chalice">Chalice Serverless Microframework</a>
 to create a simple API with Python3 deployed to AWS API Gateway and Lambda.
-<br>
-No promises on Windows-based systems (sorry)!
+No promises on Windows-based systems (sorry)!<br>
+
 
 Install and configure the AWS CLI<br>
 <code>pip install awscli</code><br>
